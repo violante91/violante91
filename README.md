@@ -1,6 +1,5 @@
-## Hi there 👋
-# Sérgio Onellas
-## Hello, Devs!!
+# Olá, me chamo Sérgio Ornellas ! 
+## Bem vindo ao meu perfil GitHub 👋
 <!--
 **violante91/violante91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
